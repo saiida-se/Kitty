@@ -3,7 +3,7 @@ Ce projet est une page statique qui représente un catalogue sur les races de ch
 
 **Fichiers**
 
-* design.html : page d'accueil
+* index.html : page d'accueil
 * gallery.html : page du catalogue
 * main.css : fichier CSS
 * images : dossier contenant les images
